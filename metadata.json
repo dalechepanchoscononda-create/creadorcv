@@ -1,0 +1,6 @@
+{
+  "name": "CV Builder Pro",
+  "description": "Crea y descarga tu currículum vitae en español e inglés, en formatos PDF y DOCX, con plantillas profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
